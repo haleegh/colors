@@ -1,0 +1,15 @@
+.app {
+   width:60%;
+   height:500px;
+   border:1px solid #000;
+}
+
+.color-list {
+   width: 95%;
+   height:410px;
+   background-color:#eee;
+   margin:0 auto;
+   overflow:scroll;
+   position: relative;
+   top:20px;
+}

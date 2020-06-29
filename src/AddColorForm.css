@@ -1,0 +1,25 @@
+input:nth-child(1) {
+   width:80%;
+   padding:5px;
+   margin: 2% 0 0 2%;
+   border-radius: 5px;
+   outline:none;
+}
+input:nth-child(2) {
+   position: relative;
+   top:7px;
+   margin-left: 10px;
+   width:55px;
+   height:35px;
+   border:none;
+   background-color:#fff;
+}
+button {
+   border-radius: 5px;
+   height:30px;
+   background-color: #333;
+   color:#fff;
+   font-size:14px;
+   border:none;
+   margin-left:10px;
+}
